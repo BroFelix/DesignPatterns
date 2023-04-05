@@ -1,5 +1,4 @@
 import java.lang.System;
-import java.util.function.Function;
 import java.lang.Math;
 
 interface Button {
